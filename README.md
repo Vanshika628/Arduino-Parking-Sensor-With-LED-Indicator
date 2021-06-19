@@ -3,6 +3,9 @@
 
 #### Hi, Vanshika this side, I am here to give a bit of description about the project that i made. 
 
+
+#### Here is the link of the video:https://drive.google.com/file/d/15dOWCI4khjoDCuUmVPtiQOJ0CD0yHWe5/view?usp=drivesdk
+
 👇                                                                                                                                      
 
 
@@ -35,7 +38,7 @@
 ## Observation:
 #### The object which is in front of Ultrasonic sensor, as it moves down the LED's starts glowing as per the decreasing distance. 
 
-#### Here is the link of the video:https://github.com/shubh0811/LED-DISTANCE-INDICATOR/blob/master/Project%20video.mp4
+#### Here is the link of the video:https://drive.google.com/file/d/15dOWCI4khjoDCuUmVPtiQOJ0CD0yHWe5/view?usp=drivesdk
 
 ## Explanation:
 #### The ultrasonic sensor catches the object as it comes in its range(range decided in the code). So before the starting of the project , the code is to be written(on IDE) and uploaded in the Arduino Board. Link for the code:https://github.com/Vanshika628/Arduino-Parking-Sensor-With-LED-Indicator/blob/main/Code%20for%20the%20Project.txt
@@ -56,6 +59,6 @@
 Took help from youtube videos!                              
 
 
-
+#### Here is the link of the video:https://drive.google.com/file/d/15dOWCI4khjoDCuUmVPtiQOJ0CD0yHWe5/view?usp=drivesdk
 
 
