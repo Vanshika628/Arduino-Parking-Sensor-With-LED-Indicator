@@ -44,6 +44,7 @@
 #### The ultrasonic sensor catches the object as it comes in its range(range decided in the code). So before the starting of the project , the code is to be written(on IDE) and uploaded in the Arduino Board. Link for the code:https://github.com/Vanshika628/Arduino-Parking-Sensor-With-LED-Indicator/blob/main/Code%20for%20the%20Project.txt
 #### Now as per the code i have written that when the object is at 25cm away from the sensor, glow the 7th LED . Than as the distance decreases the another LED's starts glowing as per the code. In the code I also mentioned about all the input and the output pins for the Bread board and Ultrasonic sensor.
 #### Now this looks bit easier because all the work is done by a simple code. 
+#### This idea is ready to be used in the underground parkings.
 
 
 ## Board used:
